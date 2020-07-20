@@ -36,4 +36,4 @@ A double pendulum applciation, showcasing an implementation and visualisation of
 <a name="showcase"></a>
 ## Showcase
 
-![alt text](https://github.com/DawidCiechowski/DoublePendulum/tree/master/img)
+![alt text](https://github.com/DawidCiechowski/DoublePendulum/blob/master/img/Pendulum.gif)
